@@ -1,3 +1,3 @@
-while(True){
+while(true){
   window.alert("esc");
 }
